@@ -14,12 +14,18 @@
 
 4. (optional) go into Resources/mipmap-*/ and setup the App Icons (https://learn.microsoft.com/en-us/answers/questions/865453/how-to-set-new-icon-in-xamarin-mobile-apps)
 
--> ldpi (low) ~120dpi
--> mdpi (medium) ~160dpi
--> hdpi (high) ~240dpi
--> xhdpi (extra-high) ~320dpi
--> xxhdpi (extra-extra-high) ~480dpi
--> xxxhdpi (extra-extra-extra-high) ~640dpi
+**->** ldpi (low) ~120dpi
+
+**->** mdpi (medium) ~160dpi
+
+**->** hdpi (high) ~240dpi
+
+**->** xhdpi (extra-high) ~320dpi
+
+**->** xxhdpi (extra-extra-high) ~480dpi
+
+**->** xxxhdpi (extra-extra-extra-high) ~640dpi
+
 
 5. go into ur Terminal and type ./build.cmd or dotnet build -c Release
 
