@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Web2APK</string>
+	<string name="app_url">https://example.com</string>
+	<bool name="enable_fadein">true</bool>
+	<bool name="only_vertical">true</bool> 
+	<bool name="only_horizontal">false</bool>
+	<integer name="fadein_duration">680</integer>
+</resources>
